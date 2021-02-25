@@ -10,19 +10,19 @@
 相关展示图
 
 > 新建请假申请
-> ![create-leave]()
+> ![create-leave](https://github.com/PatchouliTC/django-ticket-test/blob/main/docs/showimage/student001createpost.png)
 
 > 自己创建的请假列表
-> ![create-leave-list]()
+> ![create-leave-list](https://github.com/PatchouliTC/django-ticket-test/blob/main/docs/showimage/student001created.png)
 
 > 申请详情
-> ![create-leave-detail]()
+> ![create-leave-detail](https://github.com/PatchouliTC/django-ticket-test/blob/main/docs/showimage/student001detail.png)
 
 > 审批教师审批页
-> ![tl-view]()
-> ![tl-view-finish]()
+> ![tl-view](https://github.com/PatchouliTC/django-ticket-test/blob/main/docs/showimage/teacherAwork.png)
+> ![tl-view-finish](https://github.com/PatchouliTC/django-ticket-test/blob/main/docs/showimage/teacherAfinish.png)
 
 > 后台组成
-> ![background-user]()
-> ![background-flow]()
-> ![background-dep]()
+> ![background-user](https://github.com/PatchouliTC/django-ticket-test/blob/main/docs/showimage/background_user.png)
+> ![background-flow](https://github.com/PatchouliTC/django-ticket-test/blob/main/docs/showimage/background_flowimg.png)
+> ![background-dep](https://github.com/PatchouliTC/django-ticket-test/blob/main/docs/showimage/background_dep.png)

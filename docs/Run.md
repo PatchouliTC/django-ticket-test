@@ -38,8 +38,8 @@ python manage.py migrate
 
 - 普通用户
     - 教师用户
-        -'teacherA':`123456`
-        -'teacherB':`123456`
+        - 'teacherA':`123456`
+        - 'teacherB':`123456`
 
 ### 部署与运行shutongflow
 

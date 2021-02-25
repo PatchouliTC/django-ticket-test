@@ -8,6 +8,7 @@
 
 loonflow是作为最后方的工作流协调处理后端 该项目正常运行需要与loonflow进行数据交互
 以下步骤以[开发环境]为步骤基准
+- 该项目库不包含loonflow 需要去[loonflow](https://github.com/blackholll/loonflow)下载该后台引擎
 
 1. 为loonflow安装对应的虚拟环境[建议python版本>3.6]
 2. 启用虚拟环境,进入loonflow目录,执行pip install -r requirements/dev.txt安装开发环境需要的依赖包
@@ -67,3 +68,19 @@ python manage.py migrate
     - 如果有warn提示使用`npm audit fix`处理
 
 8. `npm run dev`启动前端项目，前段监听端口可在 frontend/config/index.js中配置port
+
+#### 登陆shutongflow
+
+数据中已有账户信息：
+
+- 管理员账户
+    - 'admin':`yxuqtr`
+
+- 普通用户
+    - 教师用户
+        - 'teacherA':`asdasd`
+        - 'teacherB':`asdasd`
+    - 学生用户
+        - 'student001':`asdasd`
+        - 'student002':`asdasd`
+        - 'student003':`asdasd`
